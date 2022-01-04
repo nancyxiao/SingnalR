@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingnalR", "SingnalR.csproj", "{6BCAFD53-2D8A-4112-81E8-42E8A87E7FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCAFD53-2D8A-4112-81E8-42E8A87E7FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCAFD53-2D8A-4112-81E8-42E8A87E7FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCAFD53-2D8A-4112-81E8-42E8A87E7FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCAFD53-2D8A-4112-81E8-42E8A87E7FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E52DB7-3825-44DD-B5DB-EA53F6B654F1}
+	EndGlobalSection
+EndGlobal
